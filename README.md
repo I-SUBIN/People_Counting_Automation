@@ -9,5 +9,5 @@
  ---
  
  ### 
- ![텍스트](https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1.jpg)
- ![텍스트]<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1_r.jpg">
+<img_src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1.jpg" width="200" height="400">
+<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1_r.jpg">
