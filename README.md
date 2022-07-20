@@ -1,6 +1,6 @@
 # ✏People_Counting_Automation
  ---
-20201012~20201106
+20201012~20201106\
  with [[조한별]](https://github.com/STAR3073) [[오서영]](https://github.com/standing-o) [[허지혜]](https://github.com/jihyeheo)
  ---
  ### summary
@@ -10,4 +10,4 @@
  
  ### 
  ![텍스트](https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1.jpg)
- ![텍스트](https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1_r.jpg)
+ ![텍스트]<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1_r.jpg">
