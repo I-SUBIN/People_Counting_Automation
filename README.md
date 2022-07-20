@@ -8,6 +8,13 @@
  
  ---
  
- ### 
-<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1.jpg?raw=True" width="50%"> <img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1_r.jpg?raw=True" width="50%">
+ ### Result
+<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1.jpg?raw=True" width="40%"> <img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test1_r.jpg?raw=True" width="40%">\
+        <그냥사진>                <0명 있는 사진>
+                      
+<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test2.jpg?raw=True" width="40%"> <img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test2_r.jpg?raw=True" width="40%">\
+        <그냥사진>                <2명 있는 사진>
+
+<img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test3.jpg?raw=True" width="40%"> <img src="https://github.com/I-SUBIN/People_Counting_Automation/blob/main/code/yolo_v3/results/test3_r.jpg?raw=True" width="40%">\
+        <그냥사진>                <4명 있는 사진>
 
